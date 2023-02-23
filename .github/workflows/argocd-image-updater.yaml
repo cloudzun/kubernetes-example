@@ -6,7 +6,7 @@ on:
       - '*'
 
 env:
-  DOCKERHUB_USERNAME: cloudzun
+  DOCKERHUB_USERNAME: chengzh
 
 jobs:
   docker:
