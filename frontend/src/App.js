@@ -46,7 +46,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Hi! I'm CloudZun !
+        Hi! I'm a PC !
       </header>
       <div className="Grid">
         <div className="Grid-Item">
