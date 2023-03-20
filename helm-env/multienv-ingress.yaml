@@ -6,7 +6,7 @@ metadata:
     kubernetes.io/ingress.class: nginx
 spec:
   rules:
-    - host: {{ .Release.Namespace }}.env.my
+    - host: "{{ .Release.Namespace }}.env.my"
       http:
         paths:
           - path: /
