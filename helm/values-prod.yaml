@@ -15,3 +15,5 @@ database:
   uri: 10.10.10.10
   username: external_postgres
   password: external_postgres
+
+host: "default.example.com"
